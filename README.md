@@ -30,7 +30,7 @@ Inspired by the legendary *Wolfenstein 3D*, this project was developed as part o
 -  🧱 Manual parsing of `.cub` configuration files  
 -  🖼 Uses **MiniLibX** for rendering  
 -  🎯 Real-time keyboard controls and collision detection  
--  💸 Animated sprites  
+-  💸 Animated sprites using deep rendering
 
 
 ---
